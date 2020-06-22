@@ -4,7 +4,7 @@ A golang consistent hashring
 
 ## Install
 
-	go get github.com/g4zhuj/hashring
+	go get github.com/cocktail828/hashring
 
 ## Usage
 get more details from hashring_test.go
