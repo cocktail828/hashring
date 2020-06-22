@@ -2,14 +2,12 @@
 
 A golang consistent hashring
 
-Install
-===
+## Install
 
 	go get github.com/g4zhuj/hashring
 
-Usage
-===
-
+## Usage
+get more details from hashring_test.go
 
 ```
 // virtualSpots means virtual spots created by each node
